@@ -13,5 +13,5 @@ def circle():
     pi = 3.14159
     area = pi * radio**2
     circunferencia = 2 * pi * radio
-    print(circunferencia, "circumferencia")
-    print(area, "area")
+    print(circunferencia)
+    print(area)
