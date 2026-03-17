@@ -16,4 +16,3 @@ def price():
     print("subtotal ", subtotal)
     print("total", total)
     print("propina ", propina)
-price()
