@@ -13,10 +13,10 @@ def grades():
     nota3 = 9
     nota4 = (nota1+nota2+nota3)
     promedio = (nota4/3)
-    print("el promedio es ", promedio)
+    print(promedio)
     maximo = max(nota1,nota2,nota3)
-    print("el maximo es", maximo)
+    print(maximo)
     minimo = min(nota1,nota2,nota3)
-    print("el minimo es", minimo)
+    print(minimo)
     faltantes = 10 - promedio
-    print("al promedio le faltan", faltantes, "para ser 10")
+    print(faltantes)
