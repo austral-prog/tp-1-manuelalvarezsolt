@@ -7,4 +7,3 @@ def age():
     print ("la edad en dias es", edad_dias)
     print ("la edad en horas es", edad_horas)
     print ("la edad en minutos es", edad_minutos)
-age()
