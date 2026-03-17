@@ -4,6 +4,6 @@ def age():
     edad_horas = 24 * edad_dias
     edad_minutos = 60 * edad_horas
     print (edad_meses)
-    print ("la edad en dias es", edad_dias)
-    print ("la edad en horas es", edad_horas)
-    print ("la edad en minutos es", edad_minutos)
+    print (edad_dias)
+    print (edad_horas)
+    print (edad_minutos)
