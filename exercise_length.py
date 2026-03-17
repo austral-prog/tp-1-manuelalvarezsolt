@@ -9,3 +9,12 @@ def length():
     4. Pulgadas (1 pulgada ≈ 0.0254 m)
     """
     metros = 1000
+    kilometros = metros / 1000
+    millas = kilometros * 1609.34
+    pies = metros / 0.3048
+    pulgadas = metros / 0.0254
+    print ("la tasa en kilometros es de ", kilometros)
+    print ("la tasa de pulgadas en metros es ", pulgadas)
+    print ("la tasa de millas es ", millas)
+    print ("la tasa de piws es ", pies)
+    print ("la tasa de pulgadas es ", pulgadas)
