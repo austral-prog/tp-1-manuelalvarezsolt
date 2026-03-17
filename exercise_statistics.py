@@ -16,5 +16,5 @@ def statistics():
     minimo = min(15, 8, 23, 12)
     diferencia = maximo - minimo
     print("diferencia es", diferencia)
-    print("maximo", maximo)
-    print("minimo", minimo)
+    print(maximo)
+    print(minimo)
