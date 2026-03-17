@@ -13,6 +13,6 @@ def price():
     subtotal = 100 + impuesto
     propina = 100 / 10
     total = subtotal + propina
-    print("subtotal ", subtotal)
-    print("total", total)
-    print("propina ", propina)
+    print(subtotal)
+    print(total)
+    print(propina)
