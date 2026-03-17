@@ -10,5 +10,5 @@ def rectangle():
     altura = 5
     area = base * altura
     perimetro = 2 * base + 2 * alturahoras
-    print("area:", area)
-    print("perimetro:", perimetro)
+    print(area)
+    print(perimetro)
