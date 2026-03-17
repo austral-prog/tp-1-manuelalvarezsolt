@@ -1,11 +1,16 @@
-def price():
+def rectangle():
     """
-    Ejercicio 8 - Cálculo de Precio Final
+    Ejercicio 2 - Geometría de Rectángulo
 
-    Dado un precio base, calcular e imprimir:
-    1. El monto del impuesto (21%)
-    2. El subtotal (precio base + impuesto)
-    3. El monto de la propina (10% del subtotal)
-    4. El precio final (subtotal + propina)
+    Dado un rectángulo con base y altura, imprimir:
+    1. El área (base × altura)
+    2. El perímetro (2 × base + 2 × altura)
     """
-    precio_base = 100
+    base = 10
+    altura = 5
+    area = base * altura
+    perimetro = 2 * base + 2 * alturahoras
+    print("area:", area)
+    print("perimetro:", perimetro)
+rectangle()
+
