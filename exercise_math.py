@@ -19,4 +19,11 @@ def math():
     cociente_entero = a//b
     resto = a % b
     promedio = (a + b) / 2
-    print (diferencia, producto, cociente, promedio, cociente_entero)
+    suma = a + b
+    print(suma)
+    print(diferencia)
+    print(producto)
+    print(promedio)
+    print(cociente_entero)
+    print(resto)
+    print(cociente)
