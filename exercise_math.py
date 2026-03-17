@@ -13,3 +13,10 @@ def math():
     """
     a = 57
     b = 7
+    diferencia = a - b
+    producto = a * b
+    cociente = a / b
+    cociente_entero = a//b
+    resto = a % b
+    promedio = (a + b) / 2
+    print ("diferencia es: ", diferencia, "producto: ", producto, "cociente: ", cociente, "promedio es ", promedio, "el cociente entero: ", cociente_entero)
