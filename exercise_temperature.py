@@ -8,5 +8,5 @@ def temperature():
     """
     celsius = 25
     farenheit = (celsius * 9 / 5) + 32
-    print(celsius)
     print(farenheit)
+    print(celsius)
