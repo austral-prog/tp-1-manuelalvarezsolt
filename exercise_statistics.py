@@ -15,6 +15,10 @@ def statistics():
     maximo = max(15, 8, 23, 12)
     minimo = min(15, 8, 23, 12)
     diferencia = maximo - minimo
-    print("diferencia es", diferencia)
+    nota = num1 +num2 +num3 +num4 
+    
+    print(nota / 4)
     print(maximo)
     print(minimo)
+    print(diferencia)
+statistics()
